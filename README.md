@@ -1,6 +1,6 @@
 - Hi, I’m @Mildemelwe
 - I’m interested in text-to-speech software
-- I’m currently learning how to make an espnet2 model
+- I’m currently learning more about encoding phonetics in Tacotron 2
 - Reach me via email at mildemelwe@gmail.com, or through discord at Kei Wendt#6210
 
 <!---
