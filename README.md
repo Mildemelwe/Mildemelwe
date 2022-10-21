@@ -1,6 +1,6 @@
 - Hi, I’m @Mildemelwe
 - I’m interested in text-to-speech software
-- I’m currently learning about obscure TTS systems such as https://github.com/marytts/marytts
+- I’m currently working on my fork of neutrogic/neuTalk
 - Reach me via email at mildemelwe@gmail.com, or through discord at Kei Wendt#6210
 
 <!---
