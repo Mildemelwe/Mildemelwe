@@ -1,6 +1,6 @@
 - Hi, I’m @Mildemelwe
 - I’m interested in text-to-speech software
-- I’m currently working on my fork of neutrogic/neuTalk
+- I’m currently working on my fork of neutrogic/neuTalk, as well as something secret...
 - Reach me via email at mildemelwe@gmail.com, or through discord at Kei Wendt#6210
 
 <!---
